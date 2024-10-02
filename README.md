@@ -27,7 +27,9 @@ The project was built using a simulated dataset for an online retail business. T
 - **Location**: Regions where sales occurred (e.g., Asia, North America).
 - **Date**: Year, quarter, and month of sales.
 ## Dashboard
+##### Desktop
 ![Desktop Dashboard](./images/Desktop_dashboard.png)
+#### Mobile
 ![Mobile Dashboard](./images/mobile1.png)
 ![Mobile Dashboard](./images/mobile2.png)
 ![Mobile Dashboard](./images/mobile3.png)
