@@ -26,3 +26,9 @@ The project was built using a simulated dataset for an online retail business. T
 - **Payment Method**: Payment methods used (e.g., Credit Card, PayPal).
 - **Location**: Regions where sales occurred (e.g., Asia, North America).
 - **Date**: Year, quarter, and month of sales.
+## Dashboard
+![Desktop Dashboard](./images/Desktop_dashboard.png)
+![Mobile Dashboard](./images/mobile1.png)
+![Mobile Dashboard](./images/mobile2.png)
+![Mobile Dashboard](./images/mobile3.png)
+![Mobile Dashboard](./images/mobile4.png)
